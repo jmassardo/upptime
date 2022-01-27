@@ -38,8 +38,12 @@ status-website:
   introTitle: "Website Monitoring"
   introMessage: 'I use [Upptime](https://github.com/upptime/upptime) and GitHub Actions to monitor all my personal websites and projects. I monitor the HTTP and SSL connections separately since I have multiple domain names that point to the same GitHub Pages site. Read more about that here: [NGINX URL rewrites](https://dxrf.com/blog/2021/03/16/nginx-url-rewrites/)'
   navbar:
-    - title: Status
+    - title: Home
       href: /
+    - title: Blog
+      href: /blog
+    - title: Status
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
