@@ -4,64 +4,70 @@
     "url": "http://dxrf.com",
     "icon": "https://favicons.githubusercontent.com/dxrf.com",
     "slug": "dxrf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 110,
     "timeWeek": 157,
     "timeMonth": 171,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 3
+    }
   },
   {
     "name": "DXRF - SSL",
     "url": "https://dxrf.com",
     "icon": "https://favicons.githubusercontent.com/dxrf.com",
     "slug": "dxrf-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 30,
     "timeWeek": 12,
     "timeMonth": 14,
     "timeYear": 11,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "Massardo Electronics",
     "url": "http://massardoelectronics.com",
     "icon": "https://favicons.githubusercontent.com/massardoelectronics.com",
     "slug": "massardo-electronics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 95,
     "timeWeek": 119,
     "timeMonth": 123,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "Massardo Electronics - SSL",
     "url": "https://massardoelectronics.com",
     "icon": "https://favicons.githubusercontent.com/massardoelectronics.com",
     "slug": "massardo-electronics-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
@@ -69,17 +75,19 @@
     "timeWeek": 117,
     "timeMonth": 136,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "Massardo Family",
     "url": "http://massardofamily.com",
     "icon": "https://favicons.githubusercontent.com/massardofamily.com",
     "slug": "massardo-family",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
@@ -87,17 +95,19 @@
     "timeWeek": 114,
     "timeMonth": 125,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "Massardo Family - SSL",
     "url": "https://massardofamily.com",
     "icon": "https://favicons.githubusercontent.com/massardofamily.com",
     "slug": "massardo-family-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
@@ -105,17 +115,19 @@
     "timeWeek": 122,
     "timeMonth": 132,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "KD5JAG",
     "url": "http://kd5jag.info",
     "icon": "https://favicons.githubusercontent.com/kd5jag.info",
     "slug": "kd-5-jag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
@@ -123,17 +135,19 @@
     "timeWeek": 129,
     "timeMonth": 177,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "KD5JAG - SSL",
     "url": "https://kd5jag.info",
     "icon": "https://favicons.githubusercontent.com/kd5jag.info",
     "slug": "kd-5-jag-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
@@ -141,7 +155,9 @@
     "timeWeek": 116,
     "timeMonth": 134,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "FRC5730",
@@ -184,10 +200,10 @@
     "url": "http://www.thefrcpros.com",
     "icon": "https://favicons.githubusercontent.com/www.thefrcpros.com",
     "slug": "the-frc-pros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
@@ -195,17 +211,19 @@
     "timeWeek": 114,
     "timeMonth": 136,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "The FRC Pros -",
     "url": "https://www.thefrcpros.com",
     "icon": "https://favicons.githubusercontent.com/www.thefrcpros.com",
     "slug": "the-frc-pros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
@@ -213,6 +231,8 @@
     "timeWeek": 114,
     "timeMonth": 136,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   }
 ]
