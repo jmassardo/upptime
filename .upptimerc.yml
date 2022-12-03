@@ -19,14 +19,6 @@ sites:
     url: http://kd5jag.info
   - name: KD5JAG - SSL
     url: https://kd5jag.info
-  - name: FRC5730
-    url: http://www.frc5730.com
-  - name: FRC5730 - SSL
-    url: https://www.frc5730.com
-  - name: The FRC Pros
-    url: http://www.thefrcpros.com
-  - name: The FRC Pros - 
-    url: https://www.thefrcpros.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
