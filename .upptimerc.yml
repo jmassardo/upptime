@@ -15,10 +15,6 @@ sites:
     url: http://massardofamily.com
   - name: Massardo Family - SSL
     url: https://massardofamily.com
-  - name: KD5JAG
-    url: http://kd5jag.info
-  - name: KD5JAG - SSL
-    url: https://kd5jag.info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
